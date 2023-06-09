@@ -1,4 +1,6 @@
 # proj_aspmvcado
+
+live http://yaccess.somee.com/Student/StudentsList
 C# mvc dot net core dotnet6 ado.net  code show students list using mvc structure
 database name 
 dbstudent
