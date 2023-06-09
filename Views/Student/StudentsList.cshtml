@@ -1,0 +1,10 @@
+﻿@model List<proj_aspmvcado.Models.Students>
+
+<!-- Rest of your view code -->
+@foreach (var student in Model)
+{
+    <div>
+        <p>Id: @student.Id</p>
+        <p>Name: @student.Name</p>
+    </div>
+}
